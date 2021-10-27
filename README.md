@@ -6,7 +6,7 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 - See my courses in [Platzi](https://platzi.com/p/brianbentancourt/ "Platzi")
 
 ### 💼 My projects in production
-- 🌎 [BurgerHouse](https://burgerhouseuy.com "BurgerHouse")
+- 🌎 [Burger House](https://burgerhouseuy.com "Burger House")
 - 🌎 [Servi Tec](https://servitec-uy.web.app "Servi Tec")
 - 🌎 [Agustyle](https://agustyle.com "Agustyle")
 - 🌎 [Truck manager](https://transportesvillasboas.web.app "Truck manager")

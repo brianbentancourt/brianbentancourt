@@ -3,7 +3,7 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 
 ### 💬 About me
 - I’m currently learning Next.js
-- See my courses in platzi [Platzi](https://platzi.com/p/brianbentancourt/ "Platzi")
+- See my courses in [Platzi](https://platzi.com/p/brianbentancourt/ "Platzi")
 
 ### 💼 My Projects
 - 🌎 [BurgerHouse](https://burgerhouseuy.com "BurgerHouse")

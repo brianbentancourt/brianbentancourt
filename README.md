@@ -2,6 +2,7 @@
 I'm a developer autodidact, passionate, ambitious, and enterprising
 
 ### 💬 About me
+- Working as Senior Software developer in [SONDA](https://www.sonda.com/ "SONDA")
 - I’m currently learning Next.js
 - See my courses in [Platzi](https://platzi.com/p/brianbentancourt/ "Platzi")
 

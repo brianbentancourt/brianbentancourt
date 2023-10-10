@@ -17,5 +17,5 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 ### 📫 How to reach me:
 - 🌎 [Linkedin](https://www.linkedin.com/in/brianbentancourt/ "Linkedin"){:target="_blank"}
 - 📩 brianbentancourt9@gmail.com
-- 🌎 [Look my web site!](https://brianbentancourt.com/){:target="_blank"}
+- 🌎 <a href="https://brianbentancourt.com/" target="_blank" rel="noopener noreferrer">Look my web site!</a>
 

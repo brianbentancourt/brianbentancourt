@@ -15,6 +15,7 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 - 🌎 [Eléctrica Caporale](https://electricacaporale.com "Eléctrica Caporale")
 
 ### 📫 How to reach me:
-- 🌎 [Linkedin](https://www.linkedin.com/in/brianbentancourt/ "Linkedin")
+- 🌎 [Linkedin](https://www.linkedin.com/in/brianbentancourt/ "Linkedin"){:target="_blank"}
 - 📩 brianbentancourt9@gmail.com
-- 🌎 [Look my web site!](https://brianbentancourt.com/)
+- 🌎 [Look my web site!](https://brianbentancourt.com/){:target="_blank"}
+

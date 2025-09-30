@@ -7,6 +7,7 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 - See my courses in [Platzi](https://platzi.com/p/brianbentancourt/ "Platzi")
 
 ### 💼 My projects in production
+- 🌎 [Pili Market Digital](http://pili.market "Pili Market Digital")
 - 🌎 [WorkHours](https://workhours.vercel.app "WorkHours")
 - 🌎 [Burger House](https://burgerhouseuy.com "Burger House")
 - 🌎 [Befe Burgers](https://befeburgers.com "Befe Burgers")

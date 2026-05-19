@@ -8,7 +8,7 @@ I'm a developer autodidact, passionate, ambitious, and enterprising
 
 ### 💼 My projects in production
 
-- 🌎 [15 Agustina](https://agustinamorales.com/")
+- 🌎 [15 Agustina](https://agustinamorales.com)
 - 🌎 [Pili Market Digital](http://pili.market "Pili Market Digital")
 - 🌎 [WorkHours](https://workhours.vercel.app "WorkHours")
 - 🌎 [Burger House](https://burgerhouseuy.com "Burger House")
